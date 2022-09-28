@@ -1,0 +1,23 @@
+{
+  "name": "threejs-gltf-example",
+  "version": "1.0.0",
+  "description": "AN example to load an optimize Threejs gltf asset loading",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narioinc/Threejs-GLTF-Example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narioinc/Threejs-GLTF-Example/issues"
+  },
+  "homepage": "https://github.com/narioinc/Threejs-GLTF-Example#readme",
+  "dependencies": {
+    "three": "^0.144.0"
+  }
+}
